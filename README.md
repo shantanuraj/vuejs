@@ -1,7 +1,7 @@
 react-express-babel6
 ---------------------
 
-This is a refrence project to demonstrate the use of **React** and **Express** with **Babel 6**
+This is a reference project to demonstrate the use of **React** and **Express** with **Babel 6**
 
 This project uses **browserify** + **gulp**, to create the browser bundle. I am working on another demo which will use **webpack** instead.
 
